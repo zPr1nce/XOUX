@@ -1,6 +1,5 @@
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-107.102127, 35.04953, 128.824936, 0.000168740749, -0.0522924289, 0.998631895, 6.54757023e-05, 0.998631835, 0.0522924215, -1.00000012, 5.655922e-05, 0.0001719594)
 game:GetService("VirtualInputManager"):SendKeyEvent(true,Enum.KeyCode.E,false,game)
-
 local ts = game:GetService("TeleportService")
 local p = game:GetService("Players").LocalPlayer
 
