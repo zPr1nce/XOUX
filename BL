@@ -4,6 +4,6 @@ game:GetService("VirtualInputManager"):SendKeyEvent(true,Enum.KeyCode.E,false,ga
 local ts = game:GetService("TeleportService")
 local p = game:GetService("Players").LocalPlayer
 
-wait(4)
+wait(600)
 
 ts:TeleportToPlaceInstance(game.PlaceId, game.JobId, p)
