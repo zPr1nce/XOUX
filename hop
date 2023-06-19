@@ -1,0 +1,4 @@
+local module = loadstring(game:HttpGet"https://raw.githubusercontent.com/LeoKholYt/roblox/main/lk_serverhop.lua")()
+
+wait(600)
+module:Teleport(game.PlaceId)
